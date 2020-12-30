@@ -1,4 +1,4 @@
-# graphQL
+# graphQL-mock
 just tried to make hands dirty with graphQL
 
 # Requirements:
@@ -8,8 +8,8 @@ just tried to make hands dirty with graphQL
 
 First clone this repository as:
 ```
-git clone https://github.com/gkanishk/graphQL
-cd graphQL
+git clone https://github.com/gkanishk/graphQL-mock
+cd graphQL-mock
 npm install
 npm run devStart
 open:
